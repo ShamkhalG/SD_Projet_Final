@@ -1,0 +1,290 @@
+[
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.2,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.8385769124
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.9401163481
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.94123234
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.9439550437
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.25,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.8381006956
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.9400182991
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.9412593434
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.9440105362
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.3,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.838014959
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.939264184
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.940683578
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.15,
+        "Accuracy":0.944166106
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.2,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.8443230836
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9438165341
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9450195892
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9437650877
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.25,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.8437107227
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9431430715
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9444126093
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.943883899
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.3,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.843597557
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9429076471
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9443798066
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.2,
+        "Accuracy":0.9436674713
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.2,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.8447940164
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9432862401
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9440104476
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9433456013
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.25,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.8443407427
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9431620671
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9438332442
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9431937264
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.3,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.8442940626
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9428469666
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9432690912
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.25,
+        "Accuracy":0.9434036435
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.2,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.8484665005
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.9429775614
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.9422770984
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.2,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.9429854763
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.25,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.8480765395
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.9429974388
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.941952682
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.25,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.942538379
+    },
+    {
+        "Model":"LogisticRegression",
+        "Test Size":0.3,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.8479823763
+    },
+    {
+        "Model":"DecisionTreeClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.9425119052
+    },
+    {
+        "Model":"RandomForestClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.9415700397
+    },
+    {
+        "Model":"MLPClassifier",
+        "Test Size":0.3,
+        "Correlation Threshold":0.3,
+        "Accuracy":0.942651734
+    }
+]
