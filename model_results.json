@@ -9,13 +9,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.15,
-        "Accuracy":0.9401163481
+        "Accuracy":0.9401717519
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.15,
-        "Accuracy":0.94123234
+        "Accuracy":0.9415291464
     },
     {
         "Model":"MLPClassifier",
@@ -33,13 +33,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.15,
-        "Accuracy":0.9400182991
+        "Accuracy":0.9398315092
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.15,
-        "Accuracy":0.9412593434
+        "Accuracy":0.9411991908
     },
     {
         "Model":"MLPClassifier",
@@ -57,13 +57,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.15,
-        "Accuracy":0.939264184
+        "Accuracy":0.9391586529
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.15,
-        "Accuracy":0.940683578
+        "Accuracy":0.9407838326
     },
     {
         "Model":"MLPClassifier",
@@ -81,13 +81,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.2,
-        "Accuracy":0.9438165341
+        "Accuracy":0.9437294709
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.2,
-        "Accuracy":0.9450195892
+        "Accuracy":0.9450749931
     },
     {
         "Model":"MLPClassifier",
@@ -105,13 +105,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.2,
-        "Accuracy":0.9431430715
+        "Accuracy":0.9431620671
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.2,
-        "Accuracy":0.9444126093
+        "Accuracy":0.9443746181
     },
     {
         "Model":"MLPClassifier",
@@ -129,13 +129,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.2,
-        "Accuracy":0.9429076471
+        "Accuracy":0.9428469666
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.2,
-        "Accuracy":0.9443798066
+        "Accuracy":0.9441449998
     },
     {
         "Model":"MLPClassifier",
@@ -153,13 +153,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.25,
-        "Accuracy":0.9432862401
+        "Accuracy":0.9432704104
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.25,
-        "Accuracy":0.9440104476
+        "Accuracy":0.9443032965
     },
     {
         "Model":"MLPClassifier",
@@ -183,7 +183,7 @@
         "Model":"RandomForestClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.25,
-        "Accuracy":0.9438332442
+        "Accuracy":0.9439978725
     },
     {
         "Model":"MLPClassifier",
@@ -201,13 +201,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.25,
-        "Accuracy":0.9428469666
+        "Accuracy":0.9428364135
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.25,
-        "Accuracy":0.9432690912
+        "Accuracy":0.9433007506
     },
     {
         "Model":"MLPClassifier",
@@ -231,7 +231,7 @@
         "Model":"RandomForestClassifier",
         "Test Size":0.2,
         "Correlation Threshold":0.3,
-        "Accuracy":0.9422770984
+        "Accuracy":0.9422573113
     },
     {
         "Model":"MLPClassifier",
@@ -249,13 +249,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.3,
-        "Accuracy":0.9429974388
+        "Accuracy":0.9429942728
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.25,
         "Correlation Threshold":0.3,
-        "Accuracy":0.941952682
+        "Accuracy":0.9418070493
     },
     {
         "Model":"MLPClassifier",
@@ -273,13 +273,13 @@
         "Model":"DecisionTreeClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.3,
-        "Accuracy":0.9425119052
+        "Accuracy":0.9425145435
     },
     {
         "Model":"RandomForestClassifier",
         "Test Size":0.3,
         "Correlation Threshold":0.3,
-        "Accuracy":0.9415700397
+        "Accuracy":0.941638635
     },
     {
         "Model":"MLPClassifier",
